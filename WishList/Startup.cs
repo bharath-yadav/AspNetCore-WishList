@@ -26,7 +26,6 @@ namespace WishList
             if(env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-
             }
             else
             {
